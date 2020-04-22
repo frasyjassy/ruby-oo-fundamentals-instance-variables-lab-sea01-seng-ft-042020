@@ -1,5 +1,5 @@
 
-
+Lassie = Dog.new
 
 
 class Dog
