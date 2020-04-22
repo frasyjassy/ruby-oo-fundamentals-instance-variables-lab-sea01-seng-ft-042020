@@ -1,5 +1,4 @@
 
-Lassie = Dog.new
 
 
 class Dog
@@ -11,3 +10,5 @@ class Dog
     this_dogs_name
   end
 end
+
+Lassie = Dog.new
